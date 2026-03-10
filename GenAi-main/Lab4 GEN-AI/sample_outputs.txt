@@ -1,0 +1,14 @@
+===== LSTM OUTPUT =====
+
+Temperature 0.5:
+artificial intelligence is transformings useinn seee  t teian t la poe on...
+
+Temperature 0.8:
+artificial intelligence is transformingdsse la mhoa to nioodaaintt cnpe...
+
+
+===== TRANSFORMER OUTPUT =====
+
+artificial intelligence is transforming modern society society are based on transformers...
+
+transformer models changed the field of nlp be meaningful and coherent systems to improve automatically...
